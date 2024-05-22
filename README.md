@@ -11,3 +11,5 @@
 ### Publication date: June 2, 2014
 ### Publisher(s): Michael Driscoll; 1st edition (June 2, 2014)
 ### ASIN: B00kQTFHNK
+
+# Gift of Fire: A Social, Legal, and Ethical Issues for Computing Technology
