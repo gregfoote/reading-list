@@ -13,3 +13,6 @@
 ### ASIN: B00kQTFHNK
 
 # Gift of Fire: A Social, Legal, and Ethical Issues for Computing Technology
+
+# How Linux Works: What Every Superuser Should Know, 3rd Edition
+
