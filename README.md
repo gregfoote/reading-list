@@ -16,3 +16,5 @@
 
 # How Linux Works: What Every Superuser Should Know, 3rd Edition
 
+# Coding Freedom: The Ethics and Aesthetics Of Hacking
+## by E. Gabriella Coleman
